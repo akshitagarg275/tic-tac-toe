@@ -29,6 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 =======
 
-![alt text](./src/assets/snap1.PNG?raw=true "optional")
-![alt text](./src/assets/snap2.PNG?raw=true "optional")
+![alt text](./src/assets/sanp1.PNG?raw=true "optional")
+![alt text](./src/assets/sanp2.PNG?raw=true "optional")
 =======
